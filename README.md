@@ -8,3 +8,6 @@ It uses the p5.js library and is inspired by Daniel Shiffman.
 ## Running
 
 Just download the repository and open the index.html in a browser.
+
+![image](https://github.com/user-attachments/assets/0e649063-3fda-43ff-b24d-082ff1398b5b)
+
